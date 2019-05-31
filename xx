@@ -1,0 +1,287 @@
+@media (min-width: 640px) {
+.container-portfolio {
+padding: 0;
+margin: 0;
+}
+body {
+padding: 0;
+}
+
+@media (min-width: 640px) {
+.jumbotron {
+padding: 0;
+margin: 0;
+}
+body {
+padding: 0;
+}
+.centered {
+    position: absolute;
+    top: 80%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    background: teal;
+    color: white;
+}
+.text-block {
+    position: absolute;
+    bottom: 10%;
+    width: 80%;
+    left: 10%;
+    text-align: center;
+    background: teal;
+    color: white;
+}
+
+.container-picture {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+}
+
+@media (min-width: 768px) and (max-width: 980px) {
+
+    @media (min-width: 640px) and (max-width: 768px) {
+
+        body {
+    background-color: beige;
+    position: relative;
+    margin: 0;
+}
+
+.bg-light {
+    background-color: #f8f9fa!important;
+    border-bottom: 2px solid gray;
+}
+
+.btn-dark {
+    color: #fff;
+    background-color: #fbbfde;
+    border-color: #fbbfde;
+}
+
+.name {
+    background: teal;
+    color: white;
+    position: relative;
+    left: 60px;
+    padding: 5px;
+    top: 18px;
+}
+
+.firstLine {
+    border: 1px solid gray;
+}
+
+li {
+    margin: 5px;
+}
+
+.jumbotron {
+    background: white;
+    margin: 30px 200px;
+}
+
+.display-7 {
+    text-align: left;
+    padding: 20px 50px 0 25px;
+    color: black;
+}
+
+.line {
+    border: 1px solid black;
+}
+
+.TextWrap {
+    float: left;
+    margin: 4px 10px 0px 0px;
+    border: 2px solid #000000;
+}
+
+img {
+    style="float: left; margin: 4px 10px 0px 0px; border: 1px solid #000000;
+
+}
+
+#sticky-footer {
+    width: 100%;
+    height: 50px;
+    padding: 40px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    position: fixed;
+    /*Here's what sticks it*/
+    bottom: 0px;
+    /*to the bottom of the window*/
+    left: 0;
+    /*and to the left of the window.*/
+}
+
+.text-center {
+    position: fixed;
+    bottom: 2%;
+    left: 0;
+}
+
+.container-contact {
+    background: white;
+    width: 50%;
+    height: 50%;
+    margin: 20px 5px 20px 100px;
+}
+
+form {
+    margin: 0 20px 20px 20px;
+    width: 50%;
+}
+
+.display-6 {
+    text-align: left;
+    padding: 20px 50px 0 25px;
+    color: black;
+}
+
+.line-contact {
+    border: 1px solid gray;
+    margin: 30px;
+}
+
+#submit {
+    background: #fbbfde;
+    color: #f8f9fa;
+}
+
+.container-portfolio {
+    background: #fff;
+    margin: 60px 150px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+}
+
+.line-footer {
+    color: 1px solid #fbbfde;
+    position: absolute;
+    top: 0;
+}
+
+.col-4 {
+    position: relative;
+}
+
+.image {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 10%;
+    width: 80%;
+    left: 10%;
+    text-align: center;
+    background: teal;
+    color: white;
+}
+
+.container-picture {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 80%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    background: teal;
+    color: white;
+}
+.container-contact {
+    background: white;
+    width: 50%;
+    height: 50%;
+    margin: 20px 5px 20px 100px;
+}
+
+form {
+    margin: 0 20px 20px 20px;
+    width: 50%;
+}
+
+.display-6 {
+    text-align: left;
+    padding: 20px 50px 0 25px;
+    color: black;
+}
+
+.line-contact {
+    border: 1px solid gray;
+    margin: 30px;
+}
+
+#submit {
+    background: #fbbfde;
+    color: #f8f9fa;
+}
+
+.container-portfolio {
+    background: #fff;
+    margin: 60px 150px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+}
+
+.line-footer {
+    color: 1px solid #fbbfde;
+    position: absolute;
+    top: 0;
+}
+
+.card {
+    width: 93%;
+}
+
+.col-4 {
+    position: relative;
+}
+
+.image {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 10%;
+    width: 80%;
+    left: 10%;
+    text-align: center;
+    background: teal;
+    color: white;
+}
+
+.container-picture {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 80%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    background: teal;
+    color: white;
+}
