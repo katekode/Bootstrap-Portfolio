@@ -55,7 +55,7 @@ body {
 }
 
 .TextWrap {
-    float: left;
+    float: right;
     margin: 4px 10px 0px 0px;
     border: 2px solid #000000;
 }
@@ -74,7 +74,7 @@ img {
     background: white;
     width: 50%;
     height: 50%;
-    margin: 20px 5px 20px 100px;
+    margin: 20px 5px 50px 100px;
 }
 
 form {
@@ -137,8 +137,9 @@ p.card-text {
     font-size: 24px;
     text-align: center;
     position: fixed;
-    bottom: 0px;
+    bottom: -10px;
     left: 0;
+    margin: 50px 0 0 0;
 }
 
 .text-center {
